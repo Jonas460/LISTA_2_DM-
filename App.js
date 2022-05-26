@@ -57,13 +57,14 @@ const styles = StyleSheet.create({
     borderColor: "#000",
     height: 40,
     textAlign: "center",
+    marginBottom: 12,
   },
 
   top: {
     padding: 20,
     paddingTop: 40,
     marginBottom: 20,
-    backgroundColor: "#0000FF",
+    backgroundColor: "#5671A8",
   },
   topTitle: {
     fontSize: 22,
@@ -79,5 +80,5 @@ const styles = StyleSheet.create({
     marginHorizontal: 20,
     padding: 10,
   },
-  text: { fontSize: 16 },
+  text: { fontSize: 16, color: "#fff" },
 });
